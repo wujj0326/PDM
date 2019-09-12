@@ -21,6 +21,8 @@ for i in range(500) :
             step = 0
         random_walk.append(step)
     all_walks.append(random_walk)
+    # all_walks.append(random_walk[-1])
+
 
 # Create and plot np_aw_t
 np_aw_t = np.transpose(np.array(all_walks))
@@ -29,5 +31,7 @@ np_aw_t = np.transpose(np.array(all_walks))
 ends = np_aw_t[-1]
 
 # Plot histogram of ends, display plot
-plt.hist(ends)
+plt.hist(ends) #plt.hist(all_walks)
 plt.show()
+
+# E(x)=(1/6)*2(-1)+(1/6)*3(1)+(1/6)*(1/6*1*(sum(1:6))=0.75
