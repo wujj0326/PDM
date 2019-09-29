@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79eb9c75-e4de-42f5-a48c-585377d88424" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/TriangleChallenge.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriangleChallenge.py" beforeDir="false" afterPath="$PROJECT_DIR$/TriangleChallenge.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
