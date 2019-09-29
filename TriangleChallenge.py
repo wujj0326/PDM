@@ -6,7 +6,7 @@ radius = 200
 theta=1
 # calculate rates
 lr_rate = 3/math.sqrt(3)
-new_r_rate = 0.5/math.sin(math.radians(150-theta))
+new_r_rate = 0.5/math.、、、sin(math.radians(150-theta))
 length = radius * lr_rate
 
 # Draw the first triangle
